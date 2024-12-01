@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: my-package
+Version: 0.1
+Summary: A Python package with PySpark integration
+Home-page: https://github.com/saitejaranga/ace_case_study
+Author: Sai Teja
+Author-email: saitejaranga1@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# ACE_SDE
+ACE - Use Case Delivery for senio DE position.
+
+
+My Log:
+
+# I have installed findspark, pyspark - Need to make sure that during hand over I need to add these.
+
